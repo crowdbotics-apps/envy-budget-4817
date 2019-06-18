@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT envy_budget_4817.wsgi:application

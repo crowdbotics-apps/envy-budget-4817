@@ -1,0 +1,3 @@
+rootProject.name = 'envy_budget_4817'
+
+include ':app'
